@@ -81,6 +81,7 @@ The following providers are currently implemented:
   - cPanel/WHM
   - Plesk (Onyx)
   - 20i
+  - Hostarium
 
 ## Functions
 
@@ -135,6 +136,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## Credits
 
  - [Harry Lewis](https://github.com/uphlewis)
+ - [Hostarium](https://github.com/hostarium)
  - [All Contributors](../../contributors)
 
 ## License
